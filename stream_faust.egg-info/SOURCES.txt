@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+stream_faust/__init__.py
+stream_faust/utilities.py
+stream_faust.egg-info/PKG-INFO
+stream_faust.egg-info/SOURCES.txt
+stream_faust.egg-info/dependency_links.txt
+stream_faust.egg-info/not-zip-safe
+stream_faust.egg-info/requires.txt
+stream_faust.egg-info/top_level.txt
